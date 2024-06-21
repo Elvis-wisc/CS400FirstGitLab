@@ -1,6 +1,3 @@
-// Name: Jiahe Zhang
-// Email: jzhang2779@wisc.edu
-// CS Account: jiahez
 /*
  * Test the use of the Color method
  */
